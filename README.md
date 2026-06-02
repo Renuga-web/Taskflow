@@ -239,7 +239,7 @@ Adding a feature only changes the service — no other layer is touched.
 **Renuga**
 Full Stack Developer — Chennai, India
 
-- GitHub: [@renuga](https://github.com/renuga)
+- GitHub: [@Renuga-web](https://github.com/renuga-web)
 - Email: renugabcse@gmail.com
 
 ---
